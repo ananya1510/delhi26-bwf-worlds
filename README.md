@@ -4,7 +4,7 @@ A single-page concept/demo site for the 2026 BWF World Championships, being host
 
 Built as a design and frontend concept: live countdown, India's medal legacy timeline, a filterable Team India roster, day-by-day schedule, venue overview, and ticket tier cards.
 
-**Live demo:** _add your Vercel URL here after deploying_
+**Live demo:** https://delhi26-bwf-worlds.vercel.app/
 
 ## Stack
 
